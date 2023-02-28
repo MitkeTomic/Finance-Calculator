@@ -9,3 +9,4 @@ If the user chooses an option other than investment or bond, the program display
 The program uses conditional statements (if-elif-else) to determine which option the user has chosen and to execute the appropriate block of code. It also uses the math module to perform mathematical operations such as exponentiation.
 
 Overall, the program is a simple example of how Python can be used to perform financial calculations based on user input.
+
